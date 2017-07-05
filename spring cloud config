@@ -1,0 +1,7 @@
+spring cloud config
+
+1、server client config（git）
+2、config file （.pro .yml path）
+3、refresh
+4、bus
+5、Java Cryptography Extension
